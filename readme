@@ -1,0 +1,8 @@
+tech used - nodejs, 
+            postman,
+            express, 
+            vs code,
+            jsonwebtoken
+
+ npm init
+ npm install --save express jsonwebtoken           
